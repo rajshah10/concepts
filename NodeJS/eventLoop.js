@@ -16,3 +16,8 @@ console.log("This is the third statement");
 //Button - onClick 
 document.getElementById('btn').onclick('click', () => console.log("Button Clicke"))
 
+
+//Macro task vs Micro task
+
+//MIctro task - Fetch will make network calls to NEtflix server and it will return data . and returns data after 50 ms , now CBF is ready to be executed.Now CBF will go to MTQ.MTQ has higher priority.
+
