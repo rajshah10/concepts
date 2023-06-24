@@ -21,7 +21,7 @@ console.log(c)
 
 //-----------------------------------var,let,const------------------------------
 
-//var - global or function scoped
+//var - global or function scoped   
 //- redeclare and can be re-initialized
 
 var a = 10;
